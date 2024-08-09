@@ -19,3 +19,10 @@ Day-3 assignments -->
             Use the pointers to assign values to a, b, and c.
             Calculate the sum of a, b, and c using the pointers and store the result in a variable sum.
             Print the values of a, b, c, and sum.
+
+
+Day-4 assignment -->
+     Define a Book class with a constructor to initialise its properties (title, author, year),      and a method displayInfo.
+
+
+     
