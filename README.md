@@ -22,7 +22,9 @@ Day-3 assignments -->
 
 
 Day-4 assignment -->
-     Define a Book class with a constructor to initialise its properties (title, author, year),      and a method displayInfo.
+     Define a Book class with a constructor to initialise its properties (title, author, year),and a method displayInfo.
 
+Day-5 assignment --> 
+    Student Management System
 
      
